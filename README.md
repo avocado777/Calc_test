@@ -9,3 +9,7 @@ Basic operations:
 4. '/'    (Divides the first number by the second)
 5. 'pow'  (Raises a number to the power of another number)
 6. '!'    (Finds the factorial of a number)
+Vector operations:
+1. '+'    (Addition of vectors)
+2. '-'    (Subtracting vectors)
+3. '*'    (Scalar product of vectors)
